@@ -12,6 +12,9 @@ https://user-images.githubusercontent.com/101134812/167445281-663722e7-0df2-4135
 # O projeto
 Ao mudar o range do input (R, G e B), você cria a cor. Em cima irá aparecer como está a cor, e embaixo o RGB.  
 
+# Link do projeto
+https://amandabartolo.github.io/rgb_generator/
+
 # Tecnologias utilizadas
 * HTML
 * CSS
